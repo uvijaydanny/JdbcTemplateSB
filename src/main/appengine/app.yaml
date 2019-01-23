@@ -1,0 +1,7 @@
+runtime: java
+env: flexible
+
+threadsafe: true
+handlers:
+  - url: '/.*'
+    script: 'this field is required, but ignored'
