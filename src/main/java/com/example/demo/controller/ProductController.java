@@ -92,7 +92,7 @@ public class ProductController
 	@Autowired
 	private ProductService productService;
 	public Map context = new HashMap();
-	public String accessToken = "add you own access code";
+	public String accessToken = "add your own access code";
 	public String verifyToken = "fbwatson";
 	public String callFrom;
 	public String Fromnm;
